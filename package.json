@@ -1,6 +1,6 @@
 {
-  "name": "biz-ozel-mesajlasma",
-  "version": "2.0.0",
+  "name": "mury-full-online",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -18,9 +18,8 @@
     "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "autoprefixer": "^10.4.19",
+    "tailwindcss": "^3.4.1",
     "postcss": "^8",
-    "tailwindcss": "^3.4.1"
+    "autoprefixer": "^10"
   }
 }
