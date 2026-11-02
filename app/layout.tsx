@@ -1,1 +1,2 @@
-export const metadata={title:'Mury - Luxury Messaging',description:'Full online'}; export default function RootLayout({children}:{children:React.ReactNode}){return <html lang='en'><body>{children}</body></html>}
+export const metadata={title:'Mury - Luxury Messaging',description:'Mury full luxury online',manifest:'/manifest.json'};
+export default function RootLayout({children}:{children:React.ReactNode}){return <html lang='en'><body>{children}</body></html>}
